@@ -1,9 +1,11 @@
 
 <h3 align="center"> </h3>
+
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kkj0419)](https://github.com/kkj0419)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkhi0419@gmail.com)](mailto:kkhi0419@gmail.com)
   [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://kkhi0419.notion.site/MyPage-b75b6a01e89943e6b420660f46703f5c)
+  [![Tistory](https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=white)](https://kikikiwiii10.tistory.com/)
   
 <p align="center">
   
