@@ -9,7 +9,7 @@
   
 <p align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkj0419&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkj0419&show_icons=true&theme=radical&count_private=true)
   
 </p>
 
